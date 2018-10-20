@@ -1,0 +1,33 @@
+body{
+background-color:red;
+}
+
+h1 {
+font-family:monoscope;
+border-color:blue;
+border-style:solid;
+border-width:0.2em 0em 0em 1em;
+border-width:0.2em
+}
+
+h2 {
+color:blue;
+border:6px yellow;
+border-bottom-style:double;
+}
+
+h3{
+color:lime;
+font-family:sans-serif
+}
+
+h4{
+color:purple;
+font-family:serif;
+font-size:28px;
+}
+
+h5{
+font-family:serif;
+font-size:20px;
+}
