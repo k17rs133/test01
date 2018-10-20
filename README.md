@@ -6,3 +6,4 @@ Hello GitHub
 # second section
 
 - ITEM2
+- ITEM3
